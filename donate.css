@@ -218,19 +218,15 @@ nav {
     height: 477px;
 }
 
+.motiv-title{
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 50px
+}
+
 .motiv-discription {
     font-weight: 400;
     font-size: 18px;
     color: #707070;
-}
-
-.motiv-title{
-    font-weight: 600;
-    font-size: 30px;
-    padding-top: 25px
-}
-
-.motiv1-image {
-    width: 600px;
-
+    padding-top: 20px;
 }
