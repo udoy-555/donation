@@ -211,16 +211,19 @@ nav {
     justify-content: center;
     align-items: center;
     margin-top: 80px;
+    gap: 30px;
 }
 
 .motiv1 {
-    width: 600px;
+    padding-top: 50px;
+    width: 500px;
     height: 477px;
+
 }
 
-.motiv-title{
-    font-weight: 600;
-    font-size: 30px;
+.motiv-title {
+    font-weight: 700;
+    font-size: 45px;
     padding-top: 50px
 }
 
@@ -229,4 +232,45 @@ nav {
     font-size: 18px;
     color: #707070;
     padding-top: 20px;
+}
+
+
+/* section4  */
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    gap: 40px;
+}
+
+/* .motiv1-img{
+    border-radius: 5px;
+} */
+
+.sec5 {
+    text-align: center;
+}
+
+.Email {
+    background: #FFF4D6;
+    width: 809px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background: #0B0D17;
+    color: #FF5959;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+}
+
+.footer{
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
 }
